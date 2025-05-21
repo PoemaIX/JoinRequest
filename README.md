@@ -5,7 +5,7 @@
 * Title: Join request
 * Sender Name: 
 * Sender: noc@gudynas.lt
-* Date: 20250327
+* Date: 2025/03/27
 
 ```
 Hello, I want to join your IX, my as 215899, want to connect via GRE/VXLAN or Wireguard tunnel. Waiting for your answer! 😊
@@ -16,7 +16,7 @@ Hello, I want to join your IX, my as 215899, want to connect via GRE/VXLAN or Wi
 * Title: Re:Poema IX 接入申請
 * Sender Name: CHIEH SHENG LIN
 * Sender: haco@lazco.dev
-* Date: 20250304
+* Date: 2025/03/04
 
 ```
 您好
@@ -30,7 +30,7 @@ AS215470 - Lazco Studio - PeeringDB您
 * Title: Poema IX VM
 * Sender Name: Gregory Shapiro
 * Sender: peering@as199518.net
-* Date: 20241212
+* Date: 2024/12/12
 
 ```
 Greetings! I'm interested in joining the Poema IX. I don't currently
@@ -47,7 +47,7 @@ Thanks!
 * Title: VIXP
 * Sender Name: Mitja Herbaj
 * Sender: mitja@konzola.net
-* Date: 20241018
+* Date: 2024/10/18
 
 ```
 Hey!
@@ -67,7 +67,7 @@ Note: AS not exist
 * Title: Poema IX 接入申請
 * Sender Name: HACO
 * Sender: haco@lazco.dev
-* Date: 20241015
+* Date: 2024/10/15
 
 ```
 AS215470 - Lazco Studio - PeeringDB
@@ -78,7 +78,7 @@ AS215470 - Lazco Studio - PeeringDB
 * Title: Join Poema IX
 * Sender Name: Jakub Krsa
 * Sender: krsa.jakub@rejsik.eu
-* Date: 20240924
+* Date: 2024/09/24
 
 ```
 Hi,
@@ -95,7 +95,7 @@ Krša Jakub
 * Title: Poema IX
 * Sender Name: Gregory Shapiro
 * Sender: gshapiro@as199518.net
-* Date: 20240916
+* Date: 2024/09/16
 
 ```
 Greetings. I am interested in joining the Poema IX via a VM. Do you
@@ -113,7 +113,7 @@ https://as199518.net/
 * Title: Question about Poema-IX and free ixvm?
 * Sender Name: AS215956 - Peering
 * Sender: peering@as215956.net
-* Date: 20240826
+* Date: 2024/08/26
 
 ```
 Dear KSKB,
@@ -138,7 +138,7 @@ Dennis de Houx
 * Title: Join IXP
 * Sender Name: 
 * Sender: admin@apiversa.com
-* Date: 20240425
+* Date: 2024/04/25
 
 ```
 I'd like to join your IX.
@@ -159,7 +159,7 @@ Thanks :)
 * Title: 申请加入 Poema IX
 * Sender Name: Aehxy
 * Sender: im@aehxy.com
-* Date: 20240330
+* Date: 2024/03/30
 
 ```
 您好，
@@ -176,7 +176,7 @@ Thanks :)
 * Title: (ASN215502) Request for Joining Poema IX
 * Sender Name: 邢庆宇
 * Sender: xqy@sdust.edu.cn
-* Date: 20240321
+* Date: 2024/03/21
 
 ```
 Hello,
@@ -193,7 +193,7 @@ Thank you for considering my request.
 * Title: Hello from AS215869
 * Sender Name: Naval
 * Sender: naval@europe.com
-* Date: 20231223
+* Date: 2023/12/23
 
 ```
 Dear Poema IX Team,
@@ -220,7 +220,7 @@ Naval.
 * Title: hello this is as211358
 * Sender Name: Palumbo Patrizio
 * Sender: palumbopatrizio@icloud.com
-* Date: 20231023
+* Date: 2023/10/23
 
 ```
 is possible to join in your exchange POEMA-IX ?
@@ -235,7 +235,7 @@ AS-IPV6GO
 * Title: Request Join Poema IX
 * Sender Name: Ilham Maulana
 * Sender: slav.ilham@gmail.com
-* Date: 20230912
+* Date: 2023/09/12
 
 ```
 Hi sir,
@@ -255,7 +255,7 @@ Ilham
 * Title: Free VM to Join POEMA IX
 * Sender Name: Pongery AS
 * Sender: pongeryas@gmail.com
-* Date: 20230614
+* Date: 2023/06/14
 
 ```
 Dear KSKB.EU.ORG Team,
@@ -277,7 +277,7 @@ AS200160
 * Title: Poema IX AS200690
 * Sender Name: yoursunny
 * Sender: ripe@yoursunny.dev
-* Date: 20230303
+* Date: 2023/03/03
 
 ```
 Hi KSKB
@@ -304,7 +304,7 @@ Yours, Junxiao
 * Title: Peering via zerotier
 * Sender Name: Alexandre Roux
 * Sender: alexandre.roux@yahoo.fr
-* Date: 20221118
+* Date: 2022/11/18
 
 ```
 Hello,
@@ -324,7 +324,7 @@ Alexandre
 * Title: IXP Join Request
 * Sender Name: Fatih Ünlü
 * Sender: wolerine@gmail.com
-* Date: 20221020
+* Date: 2022/10/20
 
 ```
 Hello,
@@ -342,7 +342,7 @@ BR
 * Title: tunnel ixp
 * Sender Name: MLaBnet NOC
 * Sender: noc@mlabnet.nl
-* Date: 20220914
+* Date: 2022/09/14
 
 ```
 We would like to request a IXP connect via OpenVPN tunnel, our settings:
